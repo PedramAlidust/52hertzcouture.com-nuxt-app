@@ -1,8 +1,8 @@
-# nuxt-project frontend
+# nuxt-project
 
 > this application is nuxtjs universal mode whith ssr feature, i also used axios for bootstrap5 framework.
 
-# about project backend
+# project backend
 
 ``` bash
 
