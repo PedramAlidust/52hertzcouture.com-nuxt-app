@@ -1,22 +1,14 @@
-# nuxt-course
+# nuxt-application
 
-> Nuxt.js course for Udemy
+> this application is nuxtjs universal mode whith ssr feature
 
-## Build Setup
+#about application backend
 
 ``` bash
 # install dependencies
 $ yarn install
 
-# serve with hot reload at localhost:3000
-$ yarn run dev
-
-# build for production and launch server
-$ yarn run build
-$ yarn start
-
-# generate static project
-$ yarn run generate
+# run application
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+visit website at [52hertzcouture](https://52hertzcouture.com/).
