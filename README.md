@@ -1,14 +1,14 @@
-# nuxt-application
+# nuxt-project
 
 > this application is nuxtjs universal mode whith ssr feature
 
-#about application backend
+# about project backend
 
 ``` bash
-# install dependencies
-$ yarn install
 
-# run application
+$ backend of this project is wordress i connected wordpress restapi with nuxtjs
+
+
 ```
 
 visit website at [52hertzcouture](https://52hertzcouture.com/).
