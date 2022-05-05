@@ -1,0 +1,21 @@
+{
+  "name": "52hertz collection",
+  "version": "1.0.0",
+  "description": "52hertz collection clothing and accessories",
+  "author": "Pedram Alidoust",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "nuxt": "^1.0.0",
+    "woocommerce-api": "^1.5.0"
+  },
+  "devDependencies": {
+    "cross-env": "^5.0.1"
+  }
+}
