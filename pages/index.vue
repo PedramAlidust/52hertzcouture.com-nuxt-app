@@ -250,7 +250,7 @@ export default {
 
 
 <style scoped>
-/*slide component style */
+/*slide components style */
 .slider_background {
   background-repeat: no-repeat;
   background-position: top center;
