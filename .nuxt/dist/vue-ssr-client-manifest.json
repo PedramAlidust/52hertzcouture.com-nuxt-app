@@ -2,22 +2,22 @@
   "publicPath": "/_nuxt/",
   "all": [
     "fonts/neuehanskendrick.4b12f8c.woff2",
-    "pages/index.213ec645e99db43f3f2a.js",
+    "pages/index.2add774e88db5dee6b66.js",
     "layouts/default.bc5e844b6c0d098b93b9.js",
     "vendor.7b512b7b51ce38c18774.js",
     "app.1238e7dfa465a6c4fdc6.js",
-    "manifest.682a54ac94e9dfd46df5.js",
+    "manifest.538f6ccb8c5fa80ede51.js",
     "LICENSES",
     "index.spa.html",
     "index.ssr.html"
   ],
   "initial": [
-    "manifest.682a54ac94e9dfd46df5.js",
+    "manifest.538f6ccb8c5fa80ede51.js",
     "vendor.7b512b7b51ce38c18774.js",
     "app.1238e7dfa465a6c4fdc6.js"
   ],
   "async": [
-    "pages/index.213ec645e99db43f3f2a.js",
+    "pages/index.2add774e88db5dee6b66.js",
     "layouts/default.bc5e844b6c0d098b93b9.js"
   ],
   "modules": {
