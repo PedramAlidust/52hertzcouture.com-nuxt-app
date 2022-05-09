@@ -260,7 +260,7 @@ export default {
 
 @media (max-width: 768px) {
   .slider_background {
-    background-size: 100% 100%;
+    background-size: cover;
     min-height: 40vh;
   }
 }
